@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal Saini with @k4k4r07 as my identifier on the internet
-- 👀 I’m interested in Cyber Security, Programming and autmation
+- 👀 I’m interested in Cyber Security, Programming and automation
 - 💞️ I’m looking to collaborate on Bug Bounties, Automation projects
 - 📫 How to reach me k4k4r07@wearehackerone.com
 
